@@ -9,7 +9,7 @@ namespace SubProject
         public void Run()
         {//jakies zmiany w sub
 
-            //test sub proj
+            //test sub proj z poziomu gita
             Console.WriteLine("SubProject");
         }
     }
