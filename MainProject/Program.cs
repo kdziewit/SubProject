@@ -7,6 +7,7 @@ namespace MainProject
         static void Main(string[] args)
         {
             // kekekekek
+            //test 1
             Console.WriteLine("Hello World!");
         }
     }
