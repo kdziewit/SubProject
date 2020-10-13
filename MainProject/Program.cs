@@ -1,6 +1,6 @@
 ﻿using System;
 //zmiana w obu projektach w jednym commit'cie
-//nowa zmiana w submodule
+//zmiana w main
 namespace MainProject
 {
     class Program
