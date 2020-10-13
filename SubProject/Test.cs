@@ -1,5 +1,6 @@
 ﻿using System;
 //zmiana w obu projektach w jednym commit'cie
+//Nowa zmiana w subProject, ale bardziej
 namespace SubProject
 {
     public class Test
