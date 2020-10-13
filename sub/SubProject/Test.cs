@@ -7,7 +7,7 @@ namespace SubProject
 
         //zmiana w sub
         public void Run()
-        {
+        {//jakies zmiany w sub
             Console.WriteLine("SubProject");
         }
     }
