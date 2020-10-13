@@ -8,6 +8,8 @@ namespace SubProject
         //zmiana w sub
         public void Run()
         {//jakies zmiany w sub
+
+            //test sub proj
             Console.WriteLine("SubProject");
         }
     }
